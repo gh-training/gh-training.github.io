@@ -1,13 +1,13 @@
 ## The Code
 
 - [starter repository (python)](https://github.com/gh-training/gh-app-starter-python)
-   - [solutions](#)
+   - [solutions](https://github.com/gh-training/gh-app-starter-python/compare/solutions?expand=1)
 - [starter repository (js)](https://github.com/gh-training/gh-app-starter-js)
    - [solutions](#)
 
 ## The Slides
 
-- [Google Slides](TBD)
+- [Google Slides](https://docs.google.com/presentation/d/1dSk5R7DPacjlso2XPc0dJjK6tG-7-T0DD_0IHHzrWt8/edit?usp=sharing)
 
 ## GitHub API Documentation & Exploratory Tools
 
